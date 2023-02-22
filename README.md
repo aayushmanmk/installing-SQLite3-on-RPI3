@@ -30,3 +30,11 @@ From here you can use the following command to create a database:
 what is does:
 
  ![image](https://user-images.githubusercontent.com/124895858/220623810-1013324f-1710-4915-8f69-ab5ea16a239b.png)
+
+```
+select * from JSNP where Symbol=="J.dat" AND (Date=="2023-02-06" OR Date=="2023-01-03");
+```
+
+what it does:
+
+![image](https://user-images.githubusercontent.com/124895858/220626506-b6cc571b-4aee-46f4-b876-d420a875786f.png)
