@@ -22,4 +22,11 @@ From here you can use the following command to create a database:
 * `sqlite3 (database_name).db`
 
 ---
-Simple commands:
+
+ ```
+ select * from JSNP where Symbol=="JNPR.dat" ORDER BY Date DESC limit 1;
+ ```
+
+what is does:
+
+ ![image](https://user-images.githubusercontent.com/124895858/220623810-1013324f-1710-4915-8f69-ab5ea16a239b.png)
